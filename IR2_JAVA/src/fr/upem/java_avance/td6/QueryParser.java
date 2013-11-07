@@ -4,8 +4,8 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Iterator;
 
-import fr.umlv.query.Query.With;
-import fr.umlv.query.Query.With.Operator;
+import fr.upem.java_avance.td6.Query.With;
+import fr.upem.java_avance.td6.Query.With.Operator;
 
 class QueryParser {
     private QueryParser() {
